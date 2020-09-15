@@ -11,6 +11,8 @@ class NavBar extends Component {
 }
  
 export default NavBar;
+
+
  // Next class:
 // Advanced ES6 Topics to refresh on:
 // Arrow functions
